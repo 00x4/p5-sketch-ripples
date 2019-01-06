@@ -1,5 +1,7 @@
 # p5-sketch-ripples
 
+![preview](https://raw.githubusercontent.com/00x4/p5-sketch-ripples/master/preview.png)
+
 Processing Sample
 
 ## Interaction
